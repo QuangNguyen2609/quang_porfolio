@@ -6,27 +6,21 @@
 
 ### Glad to see you here!
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+I'm studying in Computer Science 🎓 from University of Adelaide 🏛. I'm a Data Science enthusiat who's always willing to learn new things and work in this competitive field. I crave to approach and deal with real-life problems ✨. Apart from that I also love to share my knowledge to others 👨🏻‍💻. I'm currently into Deep Learning and its modern architecture and working on my Data Structures and Algorithms 🤓.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 🛠 &nbsp; I’m currently working with Python, SQL, R, JupyterNotebook.
+- 🚀 &nbsp; I’m currently learning Statistic and Deep Learning method.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/QuangNguyen2609/).
+- 📫 &nbsp; How to reach me: quangnguyentechno@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 💻 &nbsp; I love exploring new knowledge and building cool stuffs.
+- 📰 &nbsp; Reading paper and trying to fully understand 😌.
+- 🍕 &nbsp; Hackathons, meetups & Parties.
 
 ### Languages and Tools:
 
