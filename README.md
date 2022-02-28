@@ -14,7 +14,7 @@ I'm studying in Computer Science 🎓 from University of Adelaide 🏛. I'm a Da
 - 🚀 &nbsp; I’m currently learning Statistic and Deep Learning method.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/QuangNguyen2609/).
 - 📫 &nbsp; How to reach me: quangnguyentechno@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](link)
 
 ### My Absolute Favorites:
 
