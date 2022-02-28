@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-I'm studying in Computer Science 🎓 from University of Adelaide 🏛. I'm a Data Science enthusiat who's always willing to learn new things and work in this competitive field. I crave to approach and deal with real-life problems ✨. Apart from that I also love to share my knowledge to others 👨🏻‍💻. I'm currently into Deep Learning and its modern architecture and working on my Data Structures and Algorithms 🤓.
+I'm studying in Computer Science 🎓 from University of Adelaide 🏛. I'm a Data Science enthusiat who's always willing to learn new things and work in this competitive field. I crave to approach and deal with real-life problems ✨. Apart from that I also love to share my knowledge to others 👨🏻‍💻. I'm currently into Deep Learning and its modern architecture.
 
 ### Talking about Personal Stuffs:
 
